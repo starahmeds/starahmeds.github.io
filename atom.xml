@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-26T02:37:42.139Z</updated>
+  <updated>2017-03-28T06:48:25.250Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://yoursite.com/2017/03/26/%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6/"/>
     <id>http://yoursite.com/2017/03/26/那些你很冒险的梦/</id>
     <published>2017-03-25T16:18:50.526Z</published>
-    <updated>2017-03-26T02:37:42.139Z</updated>
+    <updated>2017-03-28T06:48:25.250Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/03/26/58d728c7dbe03.jpg" alt="真心为你，心有独钟"></p>
+    <content type="html"><![CDATA[<a id="more"></a>
+<p><img src="https://ooo.0o0.ooo/2017/03/26/58d728c7dbe03.jpg" alt="真心为你，心有独钟"></p>
 <blockquote>
 <p>作曲: 林俊杰<br>作曲: 王雅君</p>
 </blockquote>
@@ -77,14 +78,17 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/03/26/58d728c7dbe03.jpg&quot; alt=&quot;真心为你，心有独钟&quot;&gt;&lt;/p&gt;
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/03/26/58d728c7dbe03.jpg&quot; alt=&quot;真心为你，心有独钟&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;作曲: 林俊杰&lt;br&gt;作曲: 王雅君&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;pr
     
     </summary>
     
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="歌词" scheme="http://yoursite.com/tags/%E6%AD%8C%E8%AF%8D/"/>
     
   </entry>
   
@@ -93,7 +97,7 @@
     <link href="http://yoursite.com/2017/03/25/hello-world/"/>
     <id>http://yoursite.com/2017/03/25/hello-world/</id>
     <published>2017-03-25T10:36:13.421Z</published>
-    <updated>2017-03-25T13:55:19.717Z</updated>
+    <updated>2017-03-28T05:57:14.438Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>

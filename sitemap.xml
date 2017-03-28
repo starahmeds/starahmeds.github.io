@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/guestbook/index-1.html</loc>
+    <loc>http://yoursite.com/guestbook/index.html</loc>
     
-    <lastmod>2017-03-26T14:35:42.211Z</lastmod>
+    <lastmod>2017-03-28T07:05:25.120Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2017-03-28T06:58:45.681Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
-    <lastmod>2017-03-26T10:45:58.308Z</lastmod>
+    <lastmod>2017-03-28T06:57:41.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/03/26/%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6/</loc>
+    
+    <lastmod>2017-03-28T06:48:25.250Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/03/25/hello-world/</loc>
+    
+    <lastmod>2017-03-28T05:57:14.438Z</lastmod>
     
   </url>
   
@@ -26,34 +47,6 @@
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2017-03-26T07:40:21.934Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2017-03-26T07:33:46.071Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/guestbook/index.html</loc>
-    
-    <lastmod>2017-03-26T04:38:37.800Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/03/26/%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6/</loc>
-    
-    <lastmod>2017-03-26T02:37:42.139Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/03/25/hello-world/</loc>
-    
-    <lastmod>2017-03-25T13:55:19.717Z</lastmod>
     
   </url>
   
