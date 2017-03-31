@@ -1790,7 +1790,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff75d7;
+  background: #8f963e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2584,10 +2584,10 @@ hr {
   margin-top: 80px;
 }
 .header {
-  background: #fff;
+  background: #fbd14b;
 }
 .header-inner {
-  padding: 25px 0 25px;
+  padding: 25px 0 20px;
 }
 .header-inner:before,
 .header-inner:after {
@@ -2865,7 +2865,7 @@ hr {
 .footer {
   margin-top: 80px;
   padding: 3px 0;
-  background: #fff;
+  background: #fbd14b;
   color: #353535;
 }
 .footer-inner {
